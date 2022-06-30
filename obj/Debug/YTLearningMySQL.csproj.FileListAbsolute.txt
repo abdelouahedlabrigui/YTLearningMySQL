@@ -1,0 +1,14 @@
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\bin\Debug\YTLearningMySQL.exe.config
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\bin\Debug\YTLearningMySQL.exe
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\bin\Debug\YTLearningMySQL.pdb
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\bin\Debug\MetroSet UI.dll
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\bin\Debug\System.Management.Automation.dll
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.csprojAssemblyReference.cache
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.Form1.resources
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.Information.resources
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.Properties.Resources.resources
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.csproj.GenerateResource.cache
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.csproj.CoreCompileInputs.cache
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.csproj.CopyComplete
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.exe
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningMySQL\YTLearningMySQL\obj\Debug\YTLearningMySQL.pdb
